@@ -31,7 +31,10 @@ The third part was to transform the Kaggle metadata and MovieLens rating data, t
  
 ![image](https://user-images.githubusercontent.com/95872614/155825150-d2c8e648-4387-48ac-bb7b-79774c05aada.png)
 
-Finally, the last step was to load the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
+Finally, the last step was to load the movies_df DataFrame and MovieLens rating CSV data to a SQL database. Here is presented the queries from PGAdmin.
+
+![image](https://user-images.githubusercontent.com/95872614/155827374-66382b30-00a4-485e-9bb6-989f6f8a71fd.png)
+
 
  
 
