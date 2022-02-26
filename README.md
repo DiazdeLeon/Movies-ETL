@@ -1,4 +1,4 @@
-# 1. Objectives of the ETL challnege
+# 1. Objectives of the ETL challenge
 
 The main purpose of the challenge was to refactor the code from this module to create one function that takes in the three files: Wikipedia data, Kaggle metadata, and the MovieLens rating data, and performs the ETL process by adding the data to a PostgreSQL database. Also, is important to underline the full comprehension of the ETL process. 
 
