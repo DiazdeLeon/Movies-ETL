@@ -21,7 +21,7 @@ During loading, which is the last step, the transformed data is moved from the s
 # 3.	Refactoring the code.
 The first step was to write a function that reads in the three data files and creates three separate DataFrames (Wikipedia data, Kaggle metadata, and MovieLens rating data).
  
-![image](https://user-images.githubusercontent.com/95872614/155825137-af5ecdc9-ec4c-421c-b774-31d41d7c9861.png)
+![image](https://user-images.githubusercontent.com/95872614/155825171-d619f4fd-d75b-4403-b00a-c5cdd45747b7.png)
 
 The second step was to transform the Wikipedia data and merge it with the Kaggle metadata. While extracting the IMDb IDs and dropping duplicates, followed by a try-except block to catch errors.
  
